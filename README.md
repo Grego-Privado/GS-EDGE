@@ -30,7 +30,7 @@ LEDs indicativos e um display LCD. Quando identificado risco alto, os dados são
 - 1x Protoboard
 - Jumpers diversos
 
-## 💾 Registro de Eventos
+## Registro de Eventos
 
 Em caso de problemas de obstrução de algum bueiro, o sistema salva automaticamente:
 
